@@ -27,4 +27,4 @@ client.on('ready', () => {
 
 })
 
-client.login("xd")
+client.login(process.env.xd)
