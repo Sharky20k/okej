@@ -22,7 +22,7 @@ client.on('ready', () => {
         // General channel id: 522455884060950590
     })
 
-    let generalChannel = client.channels.get("522455884060950590")
+    let generalChannel = client.channels.get("523823018376429581")
     generalChannel.send("Knutobot wbija na serwer. Listę komend znajdziesz pod !komendy")
 
 })
